@@ -1,6 +1,12 @@
 Intended Paper: Early Detection Effectiveness of Fake News/Information Disorder Classifiers using Target-Based Emotions and Stances on Evolving Social Networks
 Codes are for reproducibility purposes.
 
+usage
+
+Feature Engineering: Look for the [Fibvid] & [TS] files
+Model training: Look for [Custom]
+
+
 Original datasets are not provided due to their size. Hence original paper authors of the datasets analysed are here:
 
 FibVID: Comprehensive fake news diffusion dataset during the COVID-19 period https://doi.org/10.1016/j.tele.2021.101688
