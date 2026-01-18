@@ -10,13 +10,13 @@ This repository contains code for **reproducibility** (feature engineering + mod
 ## Usage
 
 ### 1) Feature Engineering
-Feature engineering scripts have this in front of them and number which indicate the order to run them in
+Feature engineering scripts have this in front of them and a number that indicates the order to run them in
 - `[Fibvid]`
 - `[TS]`
 
 ### 2) Model Training
-Model training scripts are have this in front of them and number which indicate the order to run them in
-- `[Custom]`
+Model training scripts are have this in front of them and a number that indicates the order to run them in
+- `[Checked]`
 
 ---
 
