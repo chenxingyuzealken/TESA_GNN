@@ -18,6 +18,9 @@ Feature engineering scripts have this in front of them and a number that indicat
 Model training scripts are have this in front of them and a number that indicates the order to run them in
 - `[Checked]`
 
+### 3) Baseline BERT
+This is for the baseline BERT [Clean&checked]_Custom_04b_baseBERT_upsampling.ipynb
+
 ---
 
 ## Datasets (Not Included)
